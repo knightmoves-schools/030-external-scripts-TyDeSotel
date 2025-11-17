@@ -1,3 +1,4 @@
-total = total +50;
+let total = 50;
 document.getElementById('result').innerHTML = total;
+
 
